@@ -17,6 +17,8 @@ Ideal for:
 * Accessibility needs and fatigue reduction
 * Exploring dangerous zones safely
 
+[![Activate Now](../btn.png)](https://tainted-grail-trainer.github.io/.github/)
+
 ---
 
 ## ⚙ Trainer Functions (Live Toggles)
@@ -31,6 +33,7 @@ Each option is independent, hotkey-driven, and reversible at any moment:
 * **Game Speed Slider** – Slow tense fights or speed up travel ⏱
 
 No forced presets. You decide how gentle—or firm—the world should be.
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/a50d3359-a8b4-4cfd-8cbc-b31f427ecf61" />
 
 ---
 
@@ -49,6 +52,7 @@ It’s especially valuable when:
 * Testing magic-melee hybrids without respec pain
 
 Think of it as lifting the fog, not burning the forest.
+<img width="779" height="571" alt="image" src="https://github.com/user-attachments/assets/6e576475-c369-4f1e-bdd6-c3578f093d20" />
 
 ---
 
